@@ -7,4 +7,5 @@ Coisas já feitas :
 Próximas coisas para se fazer:
 <br>
 * Rubro-negra
+<br>
 * Árvore B
